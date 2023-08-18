@@ -1,0 +1,30 @@
+.box-1 {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    background-color: lightgray;
+}
+.container-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.celebrations{
+    height:200px;
+    width:200px;
+}
+.box-a:hover{
+    background-color:coral;
+}
+.box-b:hover{
+    background-color:lightblue;
+}
+.box-c:hover{
+    background-color:mediumturquoise;
+}
